@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: 0dda1ce601d7a48f9b6bf976724cb6d2
+timeCreated: 1438130672
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bridge
+    21300002: green
+    21300004: mountain
+    21300006: rock
+    21300008: sand
+    21300010: trees
+    21300012: water
+    21300014: person_1_back_1
+    21300016: person_1_back_2
+    21300018: person_1_front_1
+    21300020: person_1_front_2
+    21300022: person_1_left_1
+    21300024: person_1_left_2
+    21300026: person_1_right_1
+    21300028: person_1_right_2
+    21300030: trees_overlay
+    21300032: benu_black_bg
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: benu_black_bg
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 102
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 8, y: 8, z: 8, w: 8}
+      outline: []
+    - name: bridge
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 109
+        width: 17
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: green
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 83
+        width: 17
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mountain
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 83
+        width: 17
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: person_1_back_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 84
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: person_1_back_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 65
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: person_1_front_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 65
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: person_1_front_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 65
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: person_1_left_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 47
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: person_1_left_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 47
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: person_1_right_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 47
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: person_1_right_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 29
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rock
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 28
+        width: 17
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sand
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 28
+        width: 17
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: trees
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 9
+        width: 17
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: trees_overlay
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 9
+        width: 17
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: water
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 9
+        width: 17
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

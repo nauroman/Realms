@@ -1,0 +1,27 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: 1.png (64 x 128)
+# $TexturePacker:SmartUpdate:20c9cd3454dc5a755e876cbc3bda33e2:95c401952a97554e287d81e4a55f39e2:b647c8423f5ebb2e1349baff3b40e560$
+#
+
+benu_black_bg;2;102;24;24;0;0
+bridge;28;109;17;17;0;0
+green;2;83;17;17;0;0
+mountain;21;83;17;17;0;0
+person_1_back_1;40;84;16;16;0;0
+person_1_back_2;2;65;16;16;0;0
+person_1_front_1;20;65;16;16;0;0
+person_1_front_2;38;65;16;16;0;0
+person_1_left_1;2;47;16;16;0;0
+person_1_left_2;20;47;16;16;0;0
+person_1_right_1;38;47;16;16;0;0
+person_1_right_2;2;29;16;16;0;0
+rock;20;28;17;17;0;0
+sand;39;28;17;17;0;0
+trees;2;9;17;17;0;0
+trees_overlay;21;9;17;17;0;0
+water;40;9;17;17;0;0

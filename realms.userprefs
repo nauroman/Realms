@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../myfriendsline/Assets/Examples/Scripts/ConsoleBase.cs">
+    <Files>
+      <File FileName="../myfriendsline/Assets/Examples/Scripts/SubMenus/MainMenu.cs" Line="9" Column="42" />
+      <File FileName="../myfriendsline/Assets/Examples/Scripts/MenuBase.cs" Line="9" Column="45" />
+      <File FileName="../myfriendsline/Assets/Examples/Scripts/ConsoleBase.cs" Line="9" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
